@@ -1,0 +1,53 @@
+.nav {
+  width: 15%;
+  min-width: 140px;
+  padding-top: 35px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+  color: $primary-color;
+}
+
+a:link {
+  color: $primary-color;
+  text-decoration: none;
+}
+
+a:visited {
+  color: $primary-color;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $primary-color;
+  text-decoration: underline;
+}
+
+// also I SWEAR to you that I got the freaking underline while hovering to work, but for some reason 
+
+// #l-link {
+//   color: $primary-color;
+//   text-decoration: none;
+// }
+
+// I honestly don't know how to seperate the links. When I did b:link, it imediatley changed to the seocndary color (rn the content link is blending into the primary color.. like the link is there but it's blending into the primary color. I could just change the color of the links all together, but that would just defeat the whole point of learning how to separate them. Also when I did b:link-- my freaking cs hover feature stopped working.
+
+// b:link {
+  //color: $secondary-color;
+  //text-decoration: underline;
+//}
+
+//b:visited {
+  //color: $secondary-color;
+  //text-decoration: none;
+//}
+
+
+//b:hover {
+  //text-decoration: none;
+//}
+
+// #l-link {
+//   color: $primary-color;
+//   text-decoration: none;
+// }
